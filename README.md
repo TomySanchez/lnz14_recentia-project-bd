@@ -2,6 +2,6 @@
 
 Scripts de la base de datos del proyecto Recentia, la aplicación web para gestionar soderías:
 
-- Crear base de datos
-- Insertar datos
-- Truncar tablas
+1. Crear base de datos
+2. Insertar datos
+3. Truncar tablas
